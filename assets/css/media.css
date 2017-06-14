@@ -1,0 +1,17 @@
+@media (min-width: 1px) and (max-width: 768px){
+	.navbar-default{
+		background-color: #000;	
+		padding: 20px 0;
+	}
+	.navbar-brand {
+	    padding: 0 15px;
+    }	
+	.savory-down {
+	    padding-top: 140px;
+	}
+
+	.el-hr {
+	    margin-left: 27%;
+	}
+
+}	
