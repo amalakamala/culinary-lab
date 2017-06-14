@@ -279,4 +279,72 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
+/*------------------- SECTION PRESS -------------------*/
 
+.press{
+	padding: 100px 0;
+}
+
+.titulo-press h1{
+	font-size: 50px;
+}
+
+.titulo-press  p{
+	font-size: 18px;
+	font-weight: 200;
+	padding-bottom: 5px;	 	
+}
+
+.el-texto-carrusel{
+	padding: 50px 0;
+}
+
+
+/* BOTONES CARRUSEL */
+.carousel-control.left,
+.carousel-control.right{
+    background-image: none;
+    background-repeat: no-repeat;
+}
+
+
+.glyphicon{
+	margin-left: 10px;
+	padding-top: 15px;	
+	color: white;
+	background-color: #DAD2C1;
+}
+
+.carousel-control .glyphicon-chevron-left, 
+.carousel-control .glyphicon-chevron-right, 
+.carousel-control .icon-next, 
+.carousel-control .icon-prev {
+    width: 50px;
+    height: 60px;
+    margin-top: -10px;
+    font-size: 30px;
+}
+
+/*---------*/
+
+.el-hr-3{
+	margin-left: 40%;
+    max-width: 150px;
+    height: 2px;
+    border-top: 1px solid #C2B49A;
+    border-bottom: 1px solid #C2B49A;
+}
+
+.rounded-circle{
+	border-radius: 50%;
+	width: 80px;
+}
+
+.fa-star{
+	color: #EFBA00;
+}
+
+.cita {
+    font-size: 24px;
+    text-transform: uppercase;
+}
